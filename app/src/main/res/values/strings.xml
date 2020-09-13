@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Base6</string>
+    <string name="btn_articulos_string">Articulos</string>
+    <string name="btn_clientes_string">Clientes</string>
+    <string name="txt_consultas_string">Consultas</string>
+    <string name="txt_titulo1_string">Consultar Articulos</string>
+    <string name="txt_codigo_string">Ingrese su Busqueda</string>
+    <string name="txt_desc1_string">Descripcion del articulo</string>
+    <string name="txt_desc2_strin">Precio de venta</string>
+    <string name="txt_desc3_strin">Stock</string>
+    <string name="txt_desc4_strin">Agrupacion</string>
+    <string name="txt_desc5_strin">Precio de costo</string>
+    <string name="txt_desc6_strin">Precio de venta 2</string>
+    <string name="txt_desc7_strin">Precio de venta 3</string>
+    <string name="txt_desc8_strin">Stock2</string>
+    <string name="txt_tituloc1_string">Consulta</string>
+    <string name="txt_tituloc2_string">de</string>
+    <string name="txt_tituloc3_string">Clientes</string>
+    <string name="txt_codigoc_string">Codigo del cliente</string>
+    <string name="txt_descc1_string">Nombre del cliente</string>
+    <string name="txt_descc2_string">Direccion</string>
+    <string name="txt_descc3_string">Telefono</string>
+    <string name="btn_estado_string">Estado de cuenta</string>
+    <string name="btn_histo_string">Historico</string>
+    <string name="txt_desc8_string">Referencia</string>
+    <string name="txt_rb_string">Codigo</string>
+    <string name="txt_rb2_string">Nombre</string>
+    <string name="txt_rb3_string">Referencia</string>
+</resources>
